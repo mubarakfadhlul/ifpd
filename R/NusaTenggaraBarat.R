@@ -1,0 +1,43 @@
+#' Food Prices in Nusa Tenggara Barat
+#'
+#' @format A data frame with 30 variables:
+#' \describe{
+#' \item{Tanggal}{Date}
+#' \item{Beras}{Price of rice in Nusa Tenggara Barat}
+#' \item{Beras Kualitas Medium I}{Price of medium quality rice I in Nusa Tenggara Barat}
+#' \item{Beras Kualitas Medium II}{Price of medium quality rice II in Nusa Tenggara Barat}
+#' \item{Beras Kualitas Super I}{Price of super quality rice I in Nusa Tenggara Barat}
+#' \item{Beras Kualitas Super II}{Price of super quality rice II in Nusa Tenggara Barat}
+#' \item{Daging Ayam}{Price of chicken meat in Nusa Tenggara Barat}
+#' \item{Daging Ayam Ras Segar}{Price of fresh purebred chicken meat in Nusa Tenggara Barat}
+#' \item{Daging Sapi}{Price of beef in Nusa Tenggara Barat}
+#' \item{Daging Sapi Kualitas 1}{Price of 1st quality beef in Nusa Tenggara Barat}
+#' \item{Daging Sapi Kualitas 2}{Price of 2nd quality beef in Nusa Tenggara Barat}
+#' \item{Telur Ayam}{Price of chicken eggs in Nusa Tenggara Barat}
+#' \item{Telur Ayam Ras Segar}{Price of fresh purebred chicken eggs in Nusa Tenggara Barat}
+#' \item{Bawang Merah}{Price of shallots in Nusa Tenggara Barat}
+#' \item{Bawang Merah Ukuran Sedang}{Price of medium shallots in Nusa Tenggara Barat}
+#' \item{Bawang Putih}{Price of garlic in Nusa Tenggara Barat}
+#' \item{Bawang Putih Ukuran Sedang}{Price of medium garlic in Nusa Tenggara Barat}
+#' \item{Cabai Merah}{Price of red chili in Nusa Tenggara Barat}
+#' \item{Cabai Merah Besar}{Price of big red chili in Nusa Tenggara Barat}
+#' \item{Cabai Merah Keriting}{Price of curly red chilies in Nusa Tenggara Barat}
+#' \item{Cabai Rawit}{Price of Tabasco chili pepper in Nusa Tenggara Barat}
+#' \item{Cabai Rawit Hijau}{Price of green Tabasco chili pepper in Nusa Tenggara Barat}
+#' \item{Cabai Rawit Merah}{Price of green Tabasco chili pepper in Nusa Tenggara Barat}
+#' \item{Minyak Goreng}{Price of cooking oil in Nusa Tenggara Barat}
+#' \item{Minyak Goreng Curah}{Price of bulk cooking oil in Nusa Tenggara Barat}
+#' \item{Minyak Goreng Kemasan Bermerk 1}{Price of branded packaged cooking oil 1 in Nusa Tenggara Barat}
+#' \item{Minyak Goreng Kemasan Bermerk 2}{Price of branded packaged cooking oil 2 in Nusa Tenggara Barat}
+#' \item{Gula Pasir}{Price of sugar in Nusa Tenggara Barat}
+#' \item{Gula Pasir Kualitas Premium}{Price of premium sugar in Nusa Tenggara Barat}
+#' \item{Gula Pasir Lokal}{Price of local sugar in Nusa Tenggara Barat}
+#' }
+#'
+#' @examples
+#' data(NusaTenggaraBarat)
+#' @source
+#' \describe{
+#' https://drive.google.com/drive/folders/1n2LPPd5PKTJXc6laQf0a0CWPCLKLjNYJ
+#' }
+"NusaTenggaraBarat"
